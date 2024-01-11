@@ -1,0 +1,11 @@
+release/adding.o
+release/authorization.o
+release/changing.o
+release/main.o
+release/mainwindow.o
+release/search.o
+release/moc_adding.o
+release/moc_authorization.o
+release/moc_changing.o
+release/moc_mainwindow.o
+release/moc_search.o
